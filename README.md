@@ -1,2 +1,14 @@
 # data_types_practice.py
-Basic data type 10 small programs
+Basic data_type small programs
+
+# Python Practice 🐍
+
+## Topics Completed
+- Variables
+- Data Types
+- Input & Output
+- Type Casting
+
+## Files
+- data_types_practice.py
+
